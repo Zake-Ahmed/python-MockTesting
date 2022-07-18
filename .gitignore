@@ -1,0 +1,5 @@
+.p*
+.c*
+/venv
+/application/__p*
+/testing/__p*
